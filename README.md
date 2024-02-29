@@ -17,10 +17,10 @@ We will build a Python application that uses Caikit run-time and API to query th
 
 <a name="mentee-info"></a>
 ## Mentee Info
+| Nama             | Program              |
+| ---------------- | -------------------- |
+| Rizqi Hairunnisa | IBM Advance AI 🤖🌊 |
 
-| --------- | ---------------- |
-| Nama      | Rizqi Hairunnisa |
-| Program   | IBM Advance AI   |
 
 
 <a name="technologies-used"></a>
