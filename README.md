@@ -10,11 +10,12 @@ We will build a Python application that uses Caikit run-time and API to query th
 
 ## Table of Contents
 1. [Mentee Info](#mentee-info)
-2. [Technologies Used](#technologies-used)
+2. [Technology](#technology)
 3. [Setup](#setup)
 4. [Usage](#usage)
 5. [Structure](#structure)
 6. [Project Status](#project-status)
+7. [Authors](#authors)
 
 
 <a name="mentee-info"></a>
@@ -25,11 +26,13 @@ We will build a Python application that uses Caikit run-time and API to query th
 
 
 
-<a name="technologies-used"></a>
-## Technologies Used
+<a name="technology"></a>
+## Technology
 
-- numpy - version 1.21.3
-
+- Linux/MacOS x86_64
+- Caikit (v0.9.2) 
+- Python (v3.8+)
+- pip (v23.0+)
 
 
 <a name="setup"></a>
@@ -76,7 +79,11 @@ python client.py
 ```
 
 <a name="project-status"></a>
-
 ## Project Status
 Project is: _complete_
+
+<a name="authors"></a>
+## Authors
+Project is: _complete_
+
 
