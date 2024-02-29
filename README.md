@@ -1,6 +1,6 @@
 # Text Sentiment Analysis using Caikit and Hugging Face
 
-<center> <img src="https://curator-production.s3.us.cloud-object-storage.appdomain.cloud/uploads/md5-f56846eef460e14f9da0fbcd6dc338b5-course_card.png"> <center>
+<center> <img src="cover.png"> <center>
 
 
 <br>Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of Text Sentiment Analysis using Caikit and Hugging Face from [CognitiveClass.ai](https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0PYAEN+v1)
