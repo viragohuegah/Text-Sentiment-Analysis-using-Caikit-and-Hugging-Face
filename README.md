@@ -1,19 +1,17 @@
 # Text Sentiment Analysis using Caikit and Hugging Face
-
-## Table of Contents
-1. [Overview](#overview)
-2. [Mentee Info](#mentee-info)
-3. [Technologies Used](#technologies-used)
-4. [Setup](#setup)
-5. [Usage](#usage)
-7. [Structure](#structure)
-8. [Project Status](#project-status)
-
-<a name="overview"></a>
-## Overview
 <br>Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of Text Sentiment Analysis using Caikit and Hugging Face from [CognitiveClass.ai](https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0PYAEN+v1)
 
 We will build a Python application that uses Caikit run-time and API to query the Hugging Face model for sentiment analysis on text strings.
+
+
+## Table of Contents
+1. [Mentee Info](#mentee-info)
+2. [Technologies Used](#technologies-used)
+3. [Setup](#setup)
+4. [Usage](#usage)
+5. [Structure](#structure)
+6. [Project Status](#project-status)
+
 
 <a name="mentee-info"></a>
 ## Mentee Info
