@@ -15,7 +15,7 @@ We will build a Python application that uses Caikit run-time and API to query th
 4. [Usage](#usage)
 5. [Structure](#structure)
 6. [Project Status](#project-status)
-7. [Authors](#authors)
+7. [Instructors](#instructors)
 
 
 <a name="mentee-info"></a>
@@ -82,8 +82,10 @@ python client.py
 ## Project Status
 Project is: _complete_
 
-<a name="authors"></a>
-## Authors
-Project is: _complete_
+<a name="instructors"></a>
+## Instructors
+- [@Rav Ahuja](https://author.skills.network/instructors/rav_ahuja)
+- [@Mark Sturdevant](https://author.skills.network/instructors/mark_sturdevant)
+- [@Martin Hickey](https://author.skills.network/instructors/martin_hickey_2)
 
 
