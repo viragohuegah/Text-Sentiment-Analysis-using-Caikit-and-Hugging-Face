@@ -18,6 +18,7 @@ We will build a Python application that uses Caikit run-time and API to query th
 <a name="mentee-info"></a>
 ## Mentee Info
 
+| --------- | ---------------- |
 | Nama      | Rizqi Hairunnisa |
 | Program   | IBM Advance AI   |
 
@@ -53,7 +54,7 @@ python client.py
 ## Structure
 ```bash
 ├── text-sentiment/                     # top-level package directory
-|   ├── README.md
+│   ├── README.md
 │   ├── start_runtime.py                # a wrapper to start the Caikit runtime as a gRPC server. The runtime will load the model at startup
 │   ├── client.py                       # client which calls the Caikit runtime to perform inference on the model it is serving to perform text sentiment analysis
 │   ├── requirements.txt                # specifies library dependencies
